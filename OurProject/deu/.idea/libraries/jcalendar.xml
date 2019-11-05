@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jcalendar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/team01/library/jcalendar/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/team01/library/jcalendar/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/team01/library/jcalendar/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/team01/library/jcalendar/jgoodies-common-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
